@@ -1,0 +1,14 @@
+[
+    {
+        "id": "6733981ce3fb3",
+        "name": "admin",
+        "email": "admin@gmail.com",
+        "role": "admin"
+    },
+    {
+        "id": "6733980e1fef2",
+        "name": "adam",
+        "email": "adamortizcasas@gmail.com",
+        "role": "user"
+    }
+]
